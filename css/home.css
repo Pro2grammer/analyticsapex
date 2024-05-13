@@ -1,0 +1,19 @@
+
+
+@media screen and (max-width: 770px) {
+
+    .trust_img img{
+        width: 40%;
+    }
+
+
+    
+}
+
+@media screen and (max-width: 580px) {
+
+    .col-md{
+        margin-bottom: 10px;
+    }
+}
+
